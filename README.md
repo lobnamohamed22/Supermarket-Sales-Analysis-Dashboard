@@ -45,9 +45,3 @@ The dataset includes 17 columns, such as:
 1. Download the .pbix file from this repository.
 2. Open it using *Power BI Desktop*.
 3. Explore the interactive visualizations and insights.
-
-## How to Use
-
-1. Download the .pbix file from this repository.
-2. Open it using *Power BI Desktop*.
-3. Explore the interactive visualizations and insights.
