@@ -8,6 +8,8 @@ The project involves analyzing supermarket sales data through an interactive and
 
 ![Supermarket Sales Dashboard](https://github.com/lobnamohamed22/Supermarket-Sales-Analysis-Dashboard/raw/main/Project%20Image.jpeg)
 
+![Supermarket Sales Dashboard](https://github.com/lobnamohamed22/Supermarket-Sales-Analysis-Dashboard/raw/main/WhatsApp%20Image%202024-11-26%20at%209.57.38%20PM.jpeg)
+
 ## Objectives
 
 - *Understand Sales Trends*: Identify patterns in sales over time across different branches and product lines.
