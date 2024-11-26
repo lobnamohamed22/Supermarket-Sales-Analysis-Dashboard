@@ -1,4 +1,5 @@
-Supermarket-Sales-Analysis-Dashboard
+## Supermarket-Sales-Analysis-Dashboard
+
 This repository contains a Power BI-based dashboard that analyzes supermarket sales data to provide valuable insights into sales performance, customer behavior, and product trends. The dashboard is designed to help businesses make data-driven decisions by visualizing key metrics, identifying trends, and optimizing strategies.
 
 ## Dashboard Overview
